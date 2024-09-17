@@ -121,4 +121,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to adjust the placeholders such as the repository link and token information based on your specific project setup!
